@@ -1,0 +1,797 @@
+
+Code	Details
+200	
+Response body
+Download
+{
+  "status": "success",
+  "total_count": 131,
+  "symptoms": [
+    {
+      "id": 82,
+      "name": "abdominal pain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 106,
+      "name": "abnormal menstruation",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 15,
+      "name": "acidity",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 90,
+      "name": "acute liver failure",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 55,
+      "name": "altered sensorium",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 94,
+      "name": "anxiety",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 56,
+      "name": "back pain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 5,
+      "name": "belly pain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 92,
+      "name": "blackheads",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 85,
+      "name": "bladder discomfort",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 22,
+      "name": "blister",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 124,
+      "name": "blood in sputum",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 62,
+      "name": "bloody stool",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 73,
+      "name": "blurred and distorted vision",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 118,
+      "name": "breathlessness",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 39,
+      "name": "brittle nails",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 75,
+      "name": "bruising",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 53,
+      "name": "burning micturition",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 65,
+      "name": "chest pain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 57,
+      "name": "chills",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 98,
+      "name": "cold hands and feets",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 36,
+      "name": "coma",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 109,
+      "name": "congestion",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 86,
+      "name": "constipation",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 126,
+      "name": "continuous feel of urine",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 26,
+      "name": "continuous sneezing",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 63,
+      "name": "cough",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 101,
+      "name": "cramps",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 91,
+      "name": "dark urine",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 31,
+      "name": "dehydration",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 23,
+      "name": "depression",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 33,
+      "name": "diarrhoea",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 24,
+      "name": "dischromic  patches",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 37,
+      "name": "distention of abdomen",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 87,
+      "name": "dizziness",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 50,
+      "name": "drying and tingling lips",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 54,
+      "name": "enlarged thyroid",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 77,
+      "name": "excessive hunger",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 81,
+      "name": "extra marital contacts",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 111,
+      "name": "family history",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 68,
+      "name": "fast heart rate",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 51,
+      "name": "fatigue",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 78,
+      "name": "fluid overload",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 9,
+      "name": "foul smell of urine",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 119,
+      "name": "headache",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 40,
+      "name": "high fever",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 34,
+      "name": "hip joint pain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 3,
+      "name": "history of alcohol consumption",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 72,
+      "name": "increased appetite",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 66,
+      "name": "indigestion",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 67,
+      "name": "inflammatory nails",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 127,
+      "name": "internal itching",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 38,
+      "name": "irregular sugar level",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 130,
+      "name": "irritability",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 13,
+      "name": "irritation in anus",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 95,
+      "name": "itching",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 47,
+      "name": "joint pain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 21,
+      "name": "knee pain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 83,
+      "name": "lack of concentration",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 114,
+      "name": "lethargy",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 112,
+      "name": "loss of appetite",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 20,
+      "name": "loss of balance",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 89,
+      "name": "loss of smell",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 97,
+      "name": "malaise",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 120,
+      "name": "mild fever",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 96,
+      "name": "mood swings",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 71,
+      "name": "movement stiffness",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 12,
+      "name": "mucoid sputum",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 104,
+      "name": "muscle pain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 102,
+      "name": "muscle wasting",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 48,
+      "name": "muscle weakness",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 116,
+      "name": "nausea",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 49,
+      "name": "neck pain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 117,
+      "name": "nodal skin eruptions",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 59,
+      "name": "obesity",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 35,
+      "name": "pain behind the eyes",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 44,
+      "name": "pain during bowel movements",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 32,
+      "name": "pain in anal region",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 41,
+      "name": "painful walking",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 25,
+      "name": "palpitations",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 52,
+      "name": "passage of gases",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 100,
+      "name": "patches in throat",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 14,
+      "name": "phlegm",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 8,
+      "name": "polyuria",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 29,
+      "name": "prominent veins on calf",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 28,
+      "name": "puffy face and eyes",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 122,
+      "name": "pus filled pimples",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 6,
+      "name": "receiving blood transfusion",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 131,
+      "name": "receiving unsterile injections",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 70,
+      "name": "red sore around nose",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 4,
+      "name": "red spots over body",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 60,
+      "name": "redness of eyes",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 45,
+      "name": "restlessness",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 123,
+      "name": "runny nose",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 42,
+      "name": "rusty sputum",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 110,
+      "name": "scurring",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 74,
+      "name": "shivering",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 88,
+      "name": "silver like dusting",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 129,
+      "name": "sinus pressure",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 125,
+      "name": "skin peeling",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 80,
+      "name": "skin rash",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 43,
+      "name": "slurred speech",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 113,
+      "name": "small dents in nails",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 17,
+      "name": "spinning movements",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 64,
+      "name": "spotting  urination",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 30,
+      "name": "stiff neck",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 46,
+      "name": "stomach bleeding",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 16,
+      "name": "stomach pain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 84,
+      "name": "sunken eyes",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 128,
+      "name": "sweating",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 18,
+      "name": "swelled lymph nodes",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 79,
+      "name": "swelling joints",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 107,
+      "name": "swelling of stomach",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 105,
+      "name": "swollen blood vessels",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 11,
+      "name": "swollen extremeties",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 61,
+      "name": "swollen legs",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 115,
+      "name": "throat irritation",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 10,
+      "name": "toxic look (typhos)",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 93,
+      "name": "ulcers on tongue",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 7,
+      "name": "unsteadiness",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 121,
+      "name": "visual disturbances",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 1,
+      "name": "vomiting",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 103,
+      "name": "watering from eyes",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 19,
+      "name": "weakness in limbs",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 76,
+      "name": "weakness of one body side",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 2,
+      "name": "weight gain",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 58,
+      "name": "weight loss",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 27,
+      "name": "yellow crust ooze",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 99,
+      "name": "yellow urine",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 108,
+      "name": "yellowing of eyes",
+      "description": null,
+      "severity_weight": 5
+    },
+    {
+      "id": 69,
+      "name": "yellowish skin",
+      "description": null,
+      "severity_weight": 5
+    }
+  ]
+}

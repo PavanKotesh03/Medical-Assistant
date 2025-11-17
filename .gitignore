@@ -1,0 +1,14 @@
+﻿# Ignore everything
+*
+
+# Except these folders/files
+!medi-api/
+!Medical-Assistant/
+!scripts/
+!database_schema.sql
+!.gitignore
+
+# Keep folder contents
+!medi-api/**
+!Medical-Assistant/**
+!scripts/**

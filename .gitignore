@@ -1,32 +1,14 @@
-﻿# Python
-__pycache__/
-*.py[cod]
-*.class
-*.so
-.Python
-env/
-venv/
-.venv
-ENV/
+﻿# Ignore everything
+*
 
-# Environment variables
-.env
-*.env
+# Except these folders/files
+!medi-api/
+!Medical-Assistant/
+!scripts/
+!database_schema.sql
+!.gitignore
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
-# Logs
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
+# Keep folder contents
+!medi-api/**
+!Medical-Assistant/**
+!scripts/**

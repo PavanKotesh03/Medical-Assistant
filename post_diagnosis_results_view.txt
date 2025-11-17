@@ -1,0 +1,160 @@
+
+Code	Details
+200	
+Response body
+Download
+{
+  "status": "success",
+  "message": "Found 10 possible disease(s)",
+  "input_symptoms": [
+    "fever",
+    "headache",
+    "fatigue"
+  ],
+  "matched_symptoms": [
+    "fatigue",
+    "headache"
+  ],
+  "results": [
+    {
+      "disease_id": 131,
+      "disease_name": "Paralysis (brain hemorrhage)",
+      "description": null,
+      "match_count": 1,
+      "total_symptoms": 4,
+      "confidence_score": 25,
+      "recommendations": [
+        "massage",
+        "eat healthy",
+        "exercise",
+        "consult doctor"
+      ]
+    },
+    {
+      "disease_id": 101,
+      "disease_name": "Hypertension",
+      "description": null,
+      "match_count": 1,
+      "total_symptoms": 5,
+      "confidence_score": 20,
+      "recommendations": [
+        "meditation",
+        "salt baths",
+        "reduce stress",
+        "get proper sleep"
+      ]
+    },
+    {
+      "disease_id": 181,
+      "disease_name": "Typhoid",
+      "description": null,
+      "match_count": 2,
+      "total_symptoms": 11,
+      "confidence_score": 18.18,
+      "recommendations": [
+        "eat high calorie vegitables",
+        "antiboitic therapy",
+        "consult doctor",
+        "medication"
+      ]
+    },
+    {
+      "disease_id": 161,
+      "disease_name": "Chicken pox",
+      "description": null,
+      "match_count": 2,
+      "total_symptoms": 11,
+      "confidence_score": 18.18,
+      "recommendations": [
+        "use neem in bathing",
+        "consume neem leaves",
+        "take vaccine",
+        "avoid public places"
+      ]
+    },
+    {
+      "disease_id": 331,
+      "disease_name": "Hypoglycemia",
+      "description": null,
+      "match_count": 2,
+      "total_symptoms": 12,
+      "confidence_score": 16.67,
+      "recommendations": [
+        "lie down on side",
+        "check in pulse",
+        "drink sugary drinks",
+        "consult doctor"
+      ]
+    },
+    {
+      "disease_id": 361,
+      "disease_name": "(vertigo) Paroymsal  Positional Vertigo",
+      "description": null,
+      "match_count": 1,
+      "total_symptoms": 6,
+      "confidence_score": 16.67,
+      "recommendations": [
+        "lie down",
+        "avoid sudden change in body",
+        "avoid abrupt head movment",
+        "relax"
+      ]
+    },
+    {
+      "disease_id": 211,
+      "disease_name": "Hepatitis C",
+      "description": null,
+      "match_count": 1,
+      "total_symptoms": 6,
+      "confidence_score": 16.67,
+      "recommendations": [
+        "Consult nearest hospital",
+        "vaccination",
+        "eat healthy",
+        "medication"
+      ]
+    },
+    {
+      "disease_id": 91,
+      "disease_name": "Bronchial Asthma",
+      "description": null,
+      "match_count": 1,
+      "total_symptoms": 6,
+      "confidence_score": 16.67,
+      "recommendations": [
+        "switch to loose cloothing",
+        "take deep breaths",
+        "get away from trigger",
+        "seek help"
+      ]
+    },
+    {
+      "disease_id": 171,
+      "disease_name": "Dengue",
+      "description": null,
+      "match_count": 2,
+      "total_symptoms": 14,
+      "confidence_score": 14.29,
+      "recommendations": [
+        "drink papaya leaf juice",
+        "avoid fatty spicy food",
+        "keep mosquitos away",
+        "keep hydrated"
+      ]
+    },
+    {
+      "disease_id": 301,
+      "disease_name": "Varicose veins",
+      "description": null,
+      "match_count": 1,
+      "total_symptoms": 7,
+      "confidence_score": 14.29,
+      "recommendations": [
+        "lie down flat and raise the leg high",
+        "use oinments",
+        "use vein compression",
+        "dont stand still for long"
+      ]
+    }
+  ]
+}
